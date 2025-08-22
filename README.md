@@ -7,11 +7,14 @@
 
 <p>
   <a href="https://sarveshbhanarkar-portfolio.vercel.app/" target="_blank" 
-     style="display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px; 
-            background: linear-gradient(90deg, #430680, #6d28d9); color: white; 
-            text-decoration: none; border-radius: 8px; font-weight: 600; 
-            font-family: sans-serif; font-size: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">
+     style="display: inline-flex; align-items: center; gap: 8px; padding: 6px 16px; 
+            background: linear-gradient(90deg, #6d28d9, #9333ea); color: white; 
+            text-decoration: none; border-radius: 50px; font-weight: 600; 
+            font-family: sans-serif; font-size: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); 
+            transition: transform 0.2s ease-in-out;">
     <img src="static/codegif.webp" width="22" height="22" alt="portfolio icon" style="vertical-align: middle;">
-    <span>My Portfolio</span>
+    <span>Visit Me</span>
   </a>
 </p>
+
+
